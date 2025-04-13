@@ -1,17 +1,75 @@
-<<<<<<< HEAD
-# Portfolio
-This is my Portfolio
-=======
-# React + Vite
+# Mayuresh Mankar - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS, showcasing my skills, projects, and experience as a Full Stack Developer.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Modern Design**: Clean, minimalist black and white theme
+- **Responsive**: Fully responsive design that works on all devices
+- **Interactive Animations**: Smooth animations using Framer Motion
+- **Particle Effects**: Custom particle system for visual appeal
+- **Contact Form**: Functional contact form with EmailJS integration
+- **Performance Optimized**: Lazy loading and code splitting
+- **SEO Friendly**: Proper meta tags and semantic HTML
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 8e99e19 (Your commit message)
+- **Frontend**: React 18, TypeScript, Tailwind CSS
+- **Build Tool**: Vite
+- **Animations**: Framer Motion
+- **Icons**: React Icons
+- **Email**: EmailJS
+- **Deployment**: Ready for Vercel/Netlify
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/MayureshMankar/Portfolio.git
+cd Portfolio
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+4. Build for production:
+```bash
+npm run build
+```
+
+## 🎨 Customization
+
+To customize this portfolio for your own use:
+
+1. Update personal information in `src/App.tsx`
+2. Replace project data in `src/components/Projects.jsx`
+3. Update skills in `src/components/Skills.jsx`
+4. Modify contact information in `src/components/Contact.jsx`
+5. Replace assets in `src/assets/` with your own images
+
+## 📧 Contact Form Setup
+
+To enable the contact form:
+
+1. Sign up for [EmailJS](https://www.emailjs.com/)
+2. Create an email service and template
+3. Update the EmailJS configuration in `src/components/Contact.jsx`
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/MayureshMankar/Portfolio/issues).
+
+---
+
+Built with ❤️ by [Mayuresh Mankar](https://github.com/MayureshMankar)

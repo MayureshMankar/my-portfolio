@@ -1,0 +1,140 @@
+Mayuresh Mankar
+About
+Skills
+Projects
+Contact
+Dark Mode
+Hi, I'm Mayuresh Mankar 👋
+Full Stack Developer | Computer Science Student | Tech Explorer
+
+Crafting seamless, user-friendly web experiences with a passion for clean code and modern design.
+Currently diving deep into DSA, Java, and the MERN Stack, with a growing interest in Machine Learning.
+
+Let’s collaborate and create something impactful.
+
+About Me
+Mayuresh Mankar
+Hi, I'm Mayuresh Mankar, a dedicated and ambitious Computer Science undergraduate with a strong foundation in software development, data structures, and web technologies. My journey started with curiosity, and it’s now fueled by a mission to solve real-world problems through tech.
+
+From building dynamic full-stack apps to experimenting with AI models, I love to turn ideas into scalable and efficient solutions. I believe that technology should not only work — it should feel right, look sharp, and perform reliably.
+
+Outside the screen, I invest time in fitness, kickboxing for self-discipline, and personal branding. Whether it's launching a shoe brand or planning a clothing line, I enjoy bringing vision to life.
+
+Get in Touch
+Tech Stack & Skills
+HTML5 Logo
+HTML5
+
+CSS3 Logo
+CSS3
+
+JavaScript Logo
+JavaScript (ES6+)
+
+React Logo
+React.js
+
+Vite Logo
+Vite
+
+Node.js Logo
+Node.js
+
+Express.js Logo
+Express.js
+
+REST APIs Logo
+REST APIs
+
+MongoDB Logo
+MongoDB (Atlas)
+
+MySQL Logo
+MySQL
+
+Java Logo
+Java (DSA + OOP)
+
+PL/SQL Logo
+PL/SQL
+
+Advanced DBMS Logo
+Advanced DBMS
+
+OOP Logo
+Object-Oriented Programming
+
+Git Logo
+Git
+
+GitHub Logo
+GitHub
+
+Postman Logo
+Postman
+
+VS Code Logo
+VS Code
+
+Vercel Logo
+Vercel
+
+Netlify Logo
+Netlify
+
+Firebase Logo
+Firebase (basics)
+
+Figma Logo
+Figma
+
+Team Collaboration Logo
+Team Collaboration
+
+Critical Thinking Logo
+Critical Thinking
+
+Problem Solving Logo
+Problem Solving
+
+Fast Learner Logo
+Fast Learner
+
+Entrepreneurial Mindset Logo
+Entrepreneurial Mindset
+
+Projects
+Shreedevi Engineers Industrial Website
+Shreedevi Engineers Industrial Website
+Developed an official online presence for a real-world surface grinding company. Includes product listings, dynamic form submissions, certificate uploads, and client interaction modules.
+
+Portfolio Website
+Portfolio Website
+This very React-based website you’re viewing, designed to showcase my journey, skills, and featured projects using animations and modern UI/UX.
+
+Whispering Soul (In Progress)
+Whispering Soul (In Progress)
+A modern website project aimed at expressing emotion and creativity through digital storytelling and immersive design. Currently under active development.
+
+Contact Me
+Your Name
+Your Email
+Your Message
+Send Message
+Email:
+mankarmayuresh2045@gmail.com
+
+LinkedIn:
+linkedin.com/in/mankarmayuresh
+
+GitHub:
+github.com/mankarmayuresh
+
+Portfolio:
+Coming soon...
+
+Whether you're looking for a collaborator, a freelance developer, or just want to chat about tech — I’d love to hear from you!
+
+Built with React, powered by passion.
+
+© 2025 Mayuresh Mankar. All rights reserved.
